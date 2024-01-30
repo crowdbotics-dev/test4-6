@@ -1,5 +1,3 @@
-import { StyleSheet } from "react-native"
-
 export const globalOptions = {
   name: "test4-6",
   url: "https://test4-6.botics.co",
@@ -7,9 +5,9 @@ export const globalOptions = {
   screenOptions: {
     headerShown: false
   }
-}
+};
 export const modulesOptions = {
   "@modules/app-menu": {
     copy: "Routes available!"
   }
-}
+};
